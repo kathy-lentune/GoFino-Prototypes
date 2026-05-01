@@ -1,0 +1,1 @@
+import"./chunk-HZ6M6AS2.js";var e=[{path:"timesheets",loadChildren:()=>import("./chunk-ZQFGGYVY.js").then(t=>t.TIMESHEETS_ROUTES)},{path:"leave",loadChildren:()=>import("./chunk-SFRJ7EV5.js").then(t=>t.LEAVE_ROUTES)},{path:"",redirectTo:"timesheets",pathMatch:"full"}];export{e as WORKFORCE_ROUTES};

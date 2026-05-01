@@ -1,0 +1,1 @@
+import"./chunk-HZ6M6AS2.js";var o=[{path:"head-contracts",loadChildren:()=>import("./chunk-Q23SR7EM.js").then(t=>t.HEAD_CONTRACTS_ROUTES)},{path:"subcontracts",loadChildren:()=>import("./chunk-BOV2SOO2.js").then(t=>t.SUBCONTRACTS_ROUTES)},{path:"",redirectTo:"head-contracts",pathMatch:"full"}];export{o as CLAIMS_ROUTES};

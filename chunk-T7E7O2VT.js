@@ -1,0 +1,1 @@
+import{Bb as t,Cb as n,Xb as m,db as a}from"./chunk-GUAFPP4K.js";import"./chunk-HZ6M6AS2.js";var s=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=a({type:o,selectors:[["gf-home-dashboard"]],decls:2,vars:0,template:function(e,d){e&1&&(t(0,"p"),m(1,"Home Dashboard"),n())},encapsulation:2})};export{s as HomeDashboardComponent};

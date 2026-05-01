@@ -1,1 +1,0 @@
-import"./chunk-C6Q5SG76.js";var o=[{path:"",loadComponent:()=>import("./chunk-IJLK745Q.js").then(t=>t.SettingsDashboardComponent)},{path:"users-access",redirectTo:"/prototypes/user-access",pathMatch:"full"}];export{o as SETTINGS_ROUTES};

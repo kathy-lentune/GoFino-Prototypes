@@ -1,0 +1,1 @@
+import"./chunk-HZ6M6AS2.js";var e=[{path:"",loadComponent:()=>import("./chunk-YPAAZT67.js").then(t=>t.SettingsDashboardComponent)},{path:"user-access",loadChildren:()=>import("./chunk-DOHDLINO.js").then(t=>t.SETTINGS_USER_ACCESS_ROUTES)},{path:"users-access",redirectTo:"/settings/user-access",pathMatch:"full"}];export{e as SETTINGS_ROUTES};

@@ -1,0 +1,1 @@
+import{e as t}from"./chunk-GUAFPP4K.js";var r=class{$innerSubject;get val(){return this.$innerSubject.value}set val(e){this.$innerSubject.next(e)}constructor(e){this.$innerSubject=new t(e)}get observable(){return this.$innerSubject}complete(){this.$innerSubject.complete()}};export{r as a};
